@@ -1,6 +1,6 @@
 <div align="center">
     <h1>【 end_4's Hyprland dotfiles 】</h1>
-    <h3></h3>
+    <h3>SpaceNerde's fork - Archived because I'm not using this anymore</h3>
 </div>
 
 <div align="center">
